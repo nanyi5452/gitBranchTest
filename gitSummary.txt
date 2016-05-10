@@ -1,1 +1,7 @@
 使用git reflog来查看历史操作记录
+
+
+第一次修改 -> git add -> 第二次修改 -> git add -> git commit
+
+
+
